@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahad Virani</title>
-    <link>http://ahadvirani.github.io/</link>
+    <link>https://ahadvirani.github.io/</link>
     <description>Recent content on Ahad Virani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Oct 2018 08:47:24 -0400</lastBuildDate>
     
-	<atom:link href="http://ahadvirani.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahadvirani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#ahadsfoodchallenge</title>
-      <link>http://ahadvirani.github.io/ahadsfoodchallenge/</link>
+      <link>https://ahadvirani.github.io/ahadsfoodchallenge/</link>
       <pubDate>Fri, 26 Oct 2018 08:47:24 -0400</pubDate>
       
-      <guid>http://ahadvirani.github.io/ahadsfoodchallenge/</guid>
+      <guid>https://ahadvirani.github.io/ahadsfoodchallenge/</guid>
       <description>The food challenge was something I was inspired to do when I was in high school. Its purpose is to share my passion for food and cooking. Here are some of the best thing I&amp;rsquo;ve eaten and made. Click here: @ahadsfoodchallenge</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://ahadvirani.github.io/about/</link>
+      <link>https://ahadvirani.github.io/about/</link>
       <pubDate>Fri, 26 Oct 2018 08:42:01 -0400</pubDate>
       
-      <guid>http://ahadvirani.github.io/about/</guid>
+      <guid>https://ahadvirani.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m Ahad. I&amp;rsquo;m a Senior at the University of Florida studying computer science. Check out some of the cool projects I&amp;rsquo;ve built!
 If you really want to get to know my creative side, go to my food challenge page. My passion is food and I&amp;rsquo;d love to share with you some of the best thing I&amp;rsquo;ve ever eaten and made myself.</description>
     </item>
     
     <item>
       <title>connect</title>
-      <link>http://ahadvirani.github.io/connect/</link>
+      <link>https://ahadvirani.github.io/connect/</link>
       <pubDate>Fri, 26 Oct 2018 08:39:41 -0400</pubDate>
       
-      <guid>http://ahadvirani.github.io/connect/</guid>
+      <guid>https://ahadvirani.github.io/connect/</guid>
       <description>Email
 LinkedIn Twitter GitHub</description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>http://ahadvirani.github.io/projects/</link>
+      <link>https://ahadvirani.github.io/projects/</link>
       <pubDate>Fri, 26 Oct 2018 08:39:02 -0400</pubDate>
       
-      <guid>http://ahadvirani.github.io/projects/</guid>
+      <guid>https://ahadvirani.github.io/projects/</guid>
       <description>Implementation of Huffman Algorithm Created a program using Java that generated a Huffman tree to count the frequency of char values in a file. Project utilized hash tables and binary trees data structures.t
 Analysis of Different Sorting Algorithms Analyzed the computational complexity of merge sort and selection sort algorithms. Three cases were tested (ascending order, descending order and random order) 10 times for each sorting method.
 Sparse Matrix Addition and Subtraction Created a program using Java that will implement a sparse matrix using linked lists and then perform addition of two matrices and multiplication of two matrices.</description>
